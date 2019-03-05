@@ -180,6 +180,11 @@ Simply download or clone this repository and install it on your web server.
 }
 ```
 
+## Checkstyle
+
+This project has [PHPCheckstyle]() configured. If you want to run the style checks, type this command
+
+    php vendor/phpcheckstyle/phpcheckstyle/run.php --src src/
 
 ## Authors
 
