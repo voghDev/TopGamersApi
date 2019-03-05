@@ -10,3 +10,4 @@
 ###< symfony/framework-bundle ###
 /nbproject/*
 public/deploy-log.txt
+style-report/
